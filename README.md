@@ -1,2 +1,2 @@
 # Project-Management
-This repo includes all the important project management files starting with Project Charter to Project Progress Report.
+Developed simple yet robust project management reports for a New York Startup banking company.
