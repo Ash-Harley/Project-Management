@@ -1,2 +1,2 @@
-# Project-Management
-Developed simple yet robust project management reports for a New York Startup banking company.
+# Project Management  - Hybrid Approach 
+Developed a robust Agile hybrid project management framework and reports for Netflix's new innovative platform.
